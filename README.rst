@@ -1,10 +1,10 @@
 INSTALLATION: (NOTE BY JANILBOLS)
 
-```
+
 pip install cython
 
 pip install git+https://github.com/statsmodels/statsmodels
-```
+
 
 
 
