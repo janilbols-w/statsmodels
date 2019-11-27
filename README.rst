@@ -1,3 +1,11 @@
+INSTALLATION: (NOTE BY JANILBOLS)
+```
+pip install cython
+pip install git+https://github.com/statsmodels/statsmodels
+```
+
+
+
 |Travis Build Status| |Azure CI Build Status| |Appveyor Build Status| |Coveralls Coverage|
 
 About statsmodels
